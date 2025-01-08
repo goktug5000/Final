@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5288813e424bad3459b2cbc14116613a, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: 
-  objName: "K\u0131sa k\u0131l\u0131\xE7"
-  shortDesc: 10 hasar
+  objName: "K\u0131l\u0131\xE7"
+  shortDesc: 20 hasar
   desc: "k\u0131l\u0131\xE7 uzun a\xE7\u0131klama"
   objImage: {fileID: 21300000, guid: f090edc0046586d4493a8e2e6dd4117c, type: 3}
-  singlePrice: 25
+  singlePrice: 100
   itemPrefab: {fileID: 8825636113902328927, guid: b63c9a5c58d12e64a95f3aea7d617fa0, type: 3}
   head: 0
   body: 0
   rightHand: 1
   leftHand: 0
-  attackDamage: 15
+  attackDamage: 20
   weaponType: 3

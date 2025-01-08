@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557713c496499aa4981ed28931c7b009, type: 3}
+  m_Name: AllQuest
+  m_EditorClassIdentifier: 
+  questName: Ekipman
+  description: "Paras\u0131n\u0131 ver al"
+  gets:
+  - itemSo: {fileID: 11400000, guid: 721485704fb605a4095dc4f3849b787d, type: 2}
+    amount: 1000
+  haves:
+  - itemSo: {fileID: 11400000, guid: a7a8657f5d574e746946e022cfd2cf0b, type: 2}
+    amount: 1
+  - itemSo: {fileID: 11400000, guid: 1556750f633a4cd4096b61476eb48bd8, type: 2}
+    amount: 1
+  - itemSo: {fileID: 11400000, guid: 59a3c85339cf6274494250061f4440d7, type: 2}
+    amount: 1
+  QuestGiverSO: {fileID: 11400000, guid: 6e9945b679eddcc4198f65bcb0c7aac9, type: 2}
